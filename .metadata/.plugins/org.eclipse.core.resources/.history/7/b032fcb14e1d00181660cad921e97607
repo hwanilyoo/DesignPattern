@@ -1,0 +1,17 @@
+package chapter01;
+
+
+class Person{
+	
+}
+class Car{
+	
+}
+public class CheckPoint_08 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,53 @@
+package chapter01;
+
+class Account {
+	private int id;
+	private String owner;
+	private double balance;
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setOwner(String owner) {
+		this.owner = owner;
+	}
+
+	public String getOwner() {
+		return owner;
+	}
+
+	public void setBalance(double balance) {
+		this.balance = balance;
+	}
+
+	public double getBalance() {
+		return balance;
+	}
+
+	public void deposit(double amount) {
+
+	}
+
+	public void withdraw(double amount) {
+
+	}
+
+	protected double getbalance() {
+		return 1D;
+	}
+
+}
+
+public class Ex07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

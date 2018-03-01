@@ -1,0 +1,19 @@
+package chapter01;
+
+class HomeAppliancies{
+	private int serialNo;
+	private String manufacturer;
+	private int year;
+	
+	public abstract void turnOn();
+	
+	
+}
+public class CheckPoint_07 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("A");
+	}
+
+}

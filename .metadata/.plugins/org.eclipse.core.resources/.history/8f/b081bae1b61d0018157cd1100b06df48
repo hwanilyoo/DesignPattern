@@ -1,0 +1,13 @@
+package chapter01;
+
+class Course{
+	private String id;
+}
+public class CheckPoint_01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
